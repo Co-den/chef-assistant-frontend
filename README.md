@@ -66,7 +66,7 @@ Campus One Dashboard
 
 ---
 
-Features
+## ✨ Features
 
 Login / authentication
 
@@ -80,39 +80,39 @@ Profile settings, change password
 
 Responsive design for mobile / tablet
 
-Role-based access (student / admin / instructor) — if implemented
+Role-based access (student / admin / instructor) if implemented
 
 
 
 ---
 
-Tech Stack
+## 💻 Tech Stack
 
-Frontend Framework: React (or Next.js / Vite / etc.)
+Frontend Framework: React ( Vite )
 
-Language: TypeScript or JavaScript
+Language: JavaScript
 
-State Management: Redux / Context API / Zustand / Recoil
+State Management: Redux /  Zustand 
 
-UI Library: Material UI / Ant Design / Tailwind CSS / Chakra UI
+UI Library: Tailwind CSS 
 
-HTTP / API Client: Axios / fetch
+HTTP / API Client: Axios
 
-Routing: React Router / Next.js routes
+Routing: React Router
 
-Form Handling & Validation: React Hook Form / Formik + Yup
+Form Handling & Validation: React Hook Form
 
-Authentication: JWT / OAuth / Session-based
+Authentication: JWT 
 
-Build & Bundling: Webpack / Vite / Next.js built-in
+Build & Bundling: Vite 
 
-Deployment: Vercel / Netlify / AWS / etc.
+Deployment: Vercel.
 
 
 
 ---
 
-Getting Started
+## Getting Started
 
 Prerequisites
 
@@ -123,7 +123,7 @@ npm or Yarn
 (Optional) access to the backend API or a mock server
 
 
-Installation
+## Installation
 
 Fork / clone this repo:
 
@@ -148,7 +148,7 @@ This should start a local server (e.g. at http://localhost:3000) where you can s
 
 ---
 
-Configuration & Environment Variables
+## Configuration & Environment Variables
 
 Create a .env.local or .env file in the root. Typical variables:
 
